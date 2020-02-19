@@ -13,3 +13,5 @@ choco install yarn
 choco install nodejs
 choco install vscode -y
 ```
+
+find ssh key under your home .ssh
